@@ -6,7 +6,7 @@
 	"module": "./dist/main/src/main.js",
 	"files": [
 		"dist",
-		"LICENSE_APACHE",
+		"LICENSE",
 		"LICENSE_MIT",
 		"README.md"
 	],
@@ -23,7 +23,7 @@
 		"lint": "eslint src"
 	},
 	"author": "codebam",
-	"license": "(MIT OR Apache-2.0)",
+	"license": "Apache-2.0",
 	"dependencies": {
 		"worker": "^3.32.0"
 	},
